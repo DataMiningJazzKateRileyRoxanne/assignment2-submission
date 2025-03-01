@@ -1,2 +1,5 @@
 # assignment2-submission
-submission for assignment 2
+
+
+This repository contains the Jupyter notebook submission file for assignment 2.
+
